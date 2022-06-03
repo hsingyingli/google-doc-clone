@@ -2,7 +2,9 @@
 > learn by doing : React, CSR, draft, Express, MongoDB
 ---
 ![screen](src/screen.png)
-
+---
+## Demo
+![Video](https://drive.google.com/file/d/1sdMaLQ2JaQowXs5LWoHbS8dDGnhrCcwI/view?usp=sharing)
 ---
 ## Stack 
 - [React](https://reactjs.org/) : A JavaScript library for building user interfaces 
